@@ -1,0 +1,9 @@
+{
+  "name": "sofia-tutora",
+  "version": "1.0.0",
+  "description": "Sofía — Tutora interactiva con IA para aprendizaje personalizado",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
